@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HitungBalokNoAbsen {
+public class HitungBalok04 {
 
     static int hitungLuas(int pjg, int lb) {
         int luas = pjg * lb;
