@@ -46,7 +46,12 @@ public class kafe04 {
         );
 
         System.out.println("Total harga: Rp " + totalBayar);
-
+        int jumlah = jumlahMenu();
+        System.out.println("jumlah menu tersedia: " + jumlah);
         input.close();
+    }
+
+    public static int jumlahMenu() {
+        return 6;
     }
 }
