@@ -31,8 +31,11 @@ public class kafe04 {
     }
 
     public static void main(String[] args) {
+        Menu();
+        Menu();
+        Menu();
+    
         Scanner input = new Scanner(System.in);
-
         Menu("Andi", true);
 
         System.out.print("Masukkan nomor menu: ");
@@ -54,4 +57,5 @@ public class kafe04 {
     public static int jumlahMenu() {
         return 6;
     }
-}
+    
+    }
