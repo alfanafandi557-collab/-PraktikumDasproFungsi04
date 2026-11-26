@@ -1,4 +1,4 @@
-public class PengunjungCafeNoAbsen {
+public class PengunjungCafe04 {
 
     static void daftarPengunjung(String... namaPengunjung) {
         System.out.println("Daftar Nama Pengunjung:");
